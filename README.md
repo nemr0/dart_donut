@@ -1,4 +1,4 @@
-![donut](/donut_action.gif)
+![donut](/donut_screenrecord.m4v)
 # dart_donut
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`.
